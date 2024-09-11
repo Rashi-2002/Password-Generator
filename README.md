@@ -30,10 +30,6 @@ You can view the live version of the project here: [Password Generator](https://
 4. The generated password will be displayed.
 5. To copy the password to the clipboard, click the "Copy" button.
 
-## Screenshots
-
-![Password Generator](screenshot.png)
-
 ## Future Enhancements
 
 - **Password Strength Indicator:** Add a feature to show the strength of the password.
